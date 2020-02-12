@@ -16,6 +16,6 @@ public class MainController {
     @RequestMapping(method = RequestMethod.GET)
     public String showHelloPage() {
         log.info("showHelloPage = "+ new File(System.getProperty("user.dir")));
-        return "index1";
+        return "index";
     }
 }
