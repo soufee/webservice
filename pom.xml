@@ -8,7 +8,7 @@
     <version>1.0.0</version>
     <name>app1</name>
   <properties>
-    <logger.version>2.8.2</logger.version>
+    <logger.version>2.16.0</logger.version>
     <spring.version>5.2.3.RELEASE</spring.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
       <tomcat.version>9.0.30</tomcat.version>
